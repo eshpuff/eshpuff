@@ -11,7 +11,8 @@
     <td valign="top">
 
 <b>pt-br</b>  
-- 🌸 Éshiley Garim, 22 anos, libra  
+- 🌸 Éshiley Garim, 22 anos, libra
+- 🎓 Estudante de Sistemas de Informação
 - 💻 Desenvolvedora frontend  
 - 🌱 Sempre aprendendo e explorando novas tecnologias  
 
@@ -19,7 +20,8 @@
 <td valign="top">
 
 <b>en</b>  
-- 🌸 Éshiley Garim, 22 yo, libra  
+- 🌸 Éshiley Garim, 22 yo, libra
+- 🎓 Bachelor’s student in Information Systems
 - 💻 Frontend Developer  
 - 🌱 Always learning and exploring new tech  
 
