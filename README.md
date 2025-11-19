@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, bem vindo(a)! 🌿</h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVkZnZjZGN2b3o0NG44Z3hhOWl0ZXBqN2pldDY4ODd4NnV6NXV1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PQh01joFJlU6A/giphy.gif" width="400"/>
+  <img src="./assets/chihiro.gif" width="400"/>
 </p>
 
 ## 🌿 Sobre Mim / About Me  
@@ -58,5 +58,5 @@
 
 ---
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdvZ2pvY2g1c295YmtkMXdjZnZldG0yamE0enc5dTdmbXByNW9lcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dyi5lnOgxeQU/giphy.gif" width="400"/><br/>
+  <img src="./assets/haku.gif" width="400"/><br/>
 
